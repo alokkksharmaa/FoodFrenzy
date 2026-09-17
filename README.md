@@ -5,8 +5,6 @@ FoodFrenzy is a Spring Boot web application for food ordering and admin manageme
 ![alt text](image.png)
 
 
-
-
 ## Tech Stack
 
 - Java 17
@@ -33,6 +31,23 @@ src/main/resources/
     static/
     templates/
 ```
+
+
+screenshots
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+
+![alt text](image-6.png)
+
 
 ## Prerequisites
 
